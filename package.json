@@ -2,7 +2,7 @@
 	"name": "project_syncfusion_dashboard",
 	"version": "0.1.0",
 	"private": true,
-	"proxy" : "https://backend-btq.onrender.com",
+	"proxy" : "https://btq-backend-yf0w.onrender.com",
 	"dependencies": {
 		"@syncfusion/ej2": "^19.4.48",
 		"@syncfusion/ej2-base": "^20.3.50",
